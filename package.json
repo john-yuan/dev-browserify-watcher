@@ -1,6 +1,6 @@
 {
   "name": "@john-yuan/dev-browserify-watcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A browserify watcher",
   "main": "index.js",
   "scripts": {
