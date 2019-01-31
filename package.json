@@ -1,0 +1,30 @@
+{
+  "name": "@john-yuan/dev-browserify-watcher",
+  "version": "1.0.0",
+  "description": "A browserify watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/john-yuan/dev-browserify-wathcer.git"
+  },
+  "keywords": [
+    "browserify",
+    "watcher"
+  ],
+  "author": "JOHN YUAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/john-yuan/dev-browserify-wathcer/issues"
+  },
+  "homepage": "https://github.com/john-yuan/dev-browserify-wathcer#readme",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "chokidar": "^2.0.4",
+    "colors": "^1.3.3",
+    "fs-extra": "^7.0.1",
+    "timepoint": "^0.0.2"
+  }
+}
