@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/john-yuan/dev-browserify-wathcer.git"
+    "url": "git+https://github.com/john-yuan/dev-browserify-watcher.git"
   },
   "keywords": [
     "browserify",
@@ -17,9 +17,9 @@
   "author": "JOHN YUAN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/john-yuan/dev-browserify-wathcer/issues"
+    "url": "https://github.com/john-yuan/dev-browserify-watcher/issues"
   },
-  "homepage": "https://github.com/john-yuan/dev-browserify-wathcer#readme",
+  "homepage": "https://github.com/john-yuan/dev-browserify-watcher#readme",
   "dependencies": {
     "browserify": "^16.2.3",
     "chokidar": "^2.0.4",
